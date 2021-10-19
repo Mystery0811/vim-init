@@ -41,6 +41,9 @@ set ttimeoutlen=50
 " 显示光标位置
 set ruler
 
+" 启用鼠标模式
+set mouse=a
+
 " 设置 Leader 键
 let mapleader=" "
 
